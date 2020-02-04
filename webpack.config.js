@@ -27,6 +27,7 @@ module.exports = {
   ]
 };
 /**
-    What this config is doing is for every file with js or jsx extension webpack pipes the code through babel-loader for transformating 
+    What this config is doing is for every file with js or jsx extension webpack pipes 
+    the code through babel-loader for transformating 
     into ES6 down to ES5
 */
