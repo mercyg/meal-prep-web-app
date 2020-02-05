@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-function WelcomePage(){
+const App = () => {
     return (
         <div classname = 'new'>
              <h1> Welcome To My Meal Prep</h1>
@@ -9,4 +9,4 @@ function WelcomePage(){
     );
 }
 
-export default WelcomePage; 
+export default App; 
